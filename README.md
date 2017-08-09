@@ -78,6 +78,12 @@ surrounded by a larger amount of "Forth-in-Forth".
 Come. Let's implement a language.
 
 
+## Why should the committee be interested?
+
+More people should know what's involved in implementing
+a programming language.
+
+
 ## The chapter titles for a talk might be
 
 - Forth

@@ -80,17 +80,17 @@ Come. Let's implement a language.
 
 ## The chapter titles for a talk might be
 
-Forth
-Notation
-Expressing Problems
-Solving Problems using Suitable Notation
-What is a Computer?
-What is a Language?
-What does it mean to Implement a Language?
-A Model for Forth
-Implementing the Model
-Reflecting on the Model
-The Various Layers
-Moving between Layers
-The Bootstrap
-Strategies for Bootstrap
+- Forth
+- Notation
+- Expressing Problems
+- Solving Problems using Suitable Notation
+- What is a Computer?
+- What is a Language?
+- What does it mean to Implement a Language?
+- A Model for Forth
+- Implementing the Model
+- Reflecting on the Model
+- The Various Layers
+- Moving between Layers
+- The Bootstrap
+- Strategies for Bootstrap

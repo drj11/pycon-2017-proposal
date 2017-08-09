@@ -2,6 +2,21 @@
 
 The PyCon UK 2017 CFP is here: http://2017.pyconuk.org/cfp/
 
+
+## Technicalities
+
+Now that I've logged into HQ,
+I can see that the proposal is required to have:
+- title, 60 characters;
+- Subtitle, 120 characters;
+- co-presenters
+- "What is your session about", 300 words; published in programme.
+- Notes to committee, 300 words.
+- Suitable for: new programmers / teachers / data scientists
+
+
+## What is my proposal?
+
 Following the suggestions on that CFP,
 a talk's title and subtitle might be
 
@@ -61,18 +76,6 @@ typically composed of a tiny nucleus (typically in Assembly)
 surrounded by a larger amount of "Forth-in-Forth".
 
 Come. Let's implement a language.
-
-
-## Technicalities
-
-Now that I've logged into HQ,
-I can see that the proposal is required to have:
-- title, 60 characters;
-- Subtitle, 120 characters;
-- co-presenters
-- "What is your session about", 300 words; published in programme.
-- Notes to committee, 300 words.
-- Suitable for: new programmers / teachers / data scientists
 
 
 ## The chapter titles for a talk might be

@@ -7,9 +7,9 @@ a talk's title and subtitle might be
 
 > What I learned building Forth in 64-bit Intel assembly
 > 
-> an excursion into why we make languages,
-> how they help us solve problems,
-> and how we implement them on computers.
+> an excursion into what happens when
+> one quirky language from the 1970s,
+> becomes one persons silly side-project.
 
 (as per the CFP) The goals of this talk are to:
 - teach the conference something;
@@ -37,15 +37,30 @@ This talk is about what happens next.
 In it I unpack what it means to implement a language.
 I dig a little into a lower-level description
 of typical computer hardware,
-and how we can use that to create a model
-of a computational process.
+and a little into 64-bit Intel Assembly.
+Compared to Python,
+Forth is a low-level language;
+compared to Assembly,
+Forth is a high-level language.
 
-I'll reflect on why there are different programming languages,
-and the "power" that different programming languages have.
-Programming languages as a social construct
-that we use to solve problems,
-but, much more importantly, to share and discuss problems.
+I'll talk about how we can implement
+one language in terms of another,
+by building _models_,
+and how we can model languages
+and model computational processes.
 
+Forth is a tiny, but powerful, language.
+Moore's insight was to discover a language that was:
+- small;
+- sufficient;
+- easy to implement;
+- extensible.
+
+The result is that Forth implementations are
+typically composed of a tiny nucleus (typically in Assembly)
+surrounded by a larger amount of "Forth-in-Forth".
+
+Come. Let's implement a language.
 
 
 ## Technicalities

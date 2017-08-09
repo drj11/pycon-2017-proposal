@@ -23,8 +23,8 @@ a talk's title and subtitle might be
 > What I learned building Forth in 64-bit Intel assembly
 > 
 > an excursion into what happens when
-> one quirky language from the 1970s,
-> becomes one persons silly side-project.
+> one quirky language from the 1970s
+> becomes a strange urge and a silly side-project.
 
 (as per the CFP) The goals of this talk are to:
 - teach the conference something;
